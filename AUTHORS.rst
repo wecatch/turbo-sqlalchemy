@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* wecatch <wecatch.me@gmail.com>
+* zhyq0826 <wecatch.me@gmail.com>
 
 Contributors
 ------------
