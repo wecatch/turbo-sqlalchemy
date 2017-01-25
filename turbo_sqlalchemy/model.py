@@ -27,7 +27,7 @@ class _QueryProperty(object):
             return None
 
 
-class BaseModel(object):
+class Db(object):
 
     def __init__(self, engine, query_class=BaseQuery, model_class=Model):
         self.Query = query_class
